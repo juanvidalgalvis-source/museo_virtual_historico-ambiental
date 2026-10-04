@@ -1045,7 +1045,8 @@ function crearCuadro(obra, numero, sala, indiceSala) {
       matLienzo.map = t; matLienzo.needsUpdate = true;
       const idx = objetivos.findIndex(o => o.userData.foco === info);
       if (idx >= 0) objetivos.splice(idx, 1);
-      asp >= 1 ? construir(1.9, 1.9 / asp) : construir(1.7 * asp, 1.7);
+      if (asp >= 1) { const w = Math.min(3, Math.max(1.9, asp * 1.05)); construir(w, w / asp); }
+      else construir(1.7 * asp, 1.7);
     }, undefined, () => {});
   }
   return grupo;
@@ -1253,14 +1254,6 @@ function construirSala(indice, cfgSala) {
     g.add(banco);
     obstaculosLocales.push({ x, z: CENTRO_SALA, r: 1.05 });
   });
-  const tipoPlanta = { griego: 'olivo', romano: 'cipres', medieval: 'helecho' }[cfgSala.estilo];
-  [-1, 1].forEach(s => {
-    const planta = crearPlanta(tipoPlanta);
-    planta.position.set(s * (SALA.ancho / 2 - .75), 0, CENTRO_SALA); planta.rotation.y = rand(0, TAU);
-    g.add(planta);
-    obstaculosLocales.push({ x: planta.position.x, z: planta.position.z, r: .6 });
-  });
-
   const esquinas = [[-1, FONDO_SALA - .55], [1, FONDO_SALA - .55], [-1, zFondo + .55], [1, zFondo + .55]];
   if (cfgSala.estilo === 'griego') {
     esquinas.forEach(([s, z]) => {

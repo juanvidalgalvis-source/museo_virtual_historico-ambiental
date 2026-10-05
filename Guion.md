@@ -5,7 +5,7 @@
 **Integrantes:** Jhon Edison Suescun Paz, Kevin Steven Trujillo Riascos y Juan Felipe Vidal Galvis  
 **Capítulos:** 5, 6 y 7 de *La fragilidad ambiental de la cultura*, de Augusto Ángel Maya  
 **Bloque temático:** Los imperios antiguos y el umbral medieval  
-**Duración estimada:** 5:30–6:00 minutos, incluyendo las pausas para cambiar de sala y observar las imágenes.
+**Duración estimada:** 6:00–6:30 minutos, incluyendo las pausas para cambiar de sala y observar las imágenes.
 
 ## Por qué un museo virtual
 
@@ -45,54 +45,54 @@ Las siguientes son **descripciones para orientar la selección de las imágenes*
 ### Momento 1 · Apertura: entrar en la historia
 **Guía: Juan Felipe Vidal Galvis · 0:40**
 
-**Juan Felipe:** Buenas tardes. Somos el Equipo 10 y les damos la bienvenida a *Cuando el suelo dice basta*, un recorrido por tres capítulos de *La fragilidad ambiental de la cultura*. ¿Qué ocurre cuando una ciudad crece, pero el territorio que la alimenta se agota?
+**Juan Felipe:** Buenas tardes. Somos el Equipo 10 y les damos la bienvenida a *Cuando el suelo dice basta*, recorrido por tres capítulos de *La fragilidad ambiental de la cultura*. ¿Qué pasa cuando una sociedad crece más rápido que el territorio que la sostiene?
 
-Elegimos el museo virtual para recorrer esa pregunta sala por sala, relacionando paisajes y formas de organización. En Meet compartimos la pantalla y cada expositor guía su capítulo. Comencemos.
+Elegimos el museo virtual para conectar, sala por sala, los cambios del paisaje con la organización de cada sociedad. En Meet compartimos la pantalla y cada uno guía el capítulo que trabajó. Comencemos.
 
 ### Momento 2 · Grecia: una expansión sobre un suelo vulnerable
 **Expositor: Jhon Edison Suescun Paz · 1:10**
 
-**Jhon:** El puerto nos muestra a Grecia conectada por el comercio con el Mediterráneo y el mar Negro. Las colonias y el crecimiento urbano ampliaron esa relación.
+**Jhon:** El puerto muestra a Grecia conectada por el comercio con el Mediterráneo y el mar Negro. Las colonias ampliaron esa relación. A diferencia de Roma, las polis griegas no formaron un Estado nacional y sus colonias no quedaron sometidas de la misma manera.
 
-A diferencia de Roma, las polis no formaron un Estado nacional y sus colonias conservaron vínculos con las ciudades de origen sin quedar sometidas de la misma manera.
+La ladera desnuda evoca la descripción de Platón: removida la tierra fértil, la lluvia arrastra el suelo. Los rebaños representan el sobrepastoreo, una presión que Ángel Maya destaca junto con ciertas prácticas agrícolas. Las terrazas y la rotación fueron respuestas para conservar la tierra. La minería también existió, pero no es la única ni la principal explicación del deterioro.
 
-La ladera desnuda evoca a Platón: removida la tierra fértil, la lluvia arrastra el suelo. Los rebaños de la tercera imagen representan el sobrepastoreo, que Ángel Maya destaca junto con ciertas prácticas agrícolas. Las terrazas y la rotación son respuestas para conservar el suelo; la cantera recuerda la minería, sin convertirla en la presión principal.
-
-El mapa final muestra las colonias y la expansión por mar. Maya plantea que la población creciente sobre suelos empobrecidos pudo influir en la diáspora griega; es una relación posible, no la causa única de cada colonia.
+El mapa final muestra la expansión por mar. Maya plantea que la población creciente sobre suelos empobrecidos pudo influir en la diáspora griega, aunque no explica por sí sola cada colonia.
 
 ### Momento 3 · Roma: el costo de abastecer al centro
 **Expositor: Kevin Steven Trujillo Riascos · 1:10**
 
-**Kevin:** El mosaico de la Villa del Casale muestra animales transportados: la extracción también alimentaba los espectáculos imperiales. El acueducto revela la escala urbana; Roma necesitaba agua traída desde lejos y dependía de una extensa red territorial.
+**Kevin:** El mosaico de la Villa del Casale muestra animales transportados para los espectáculos imperiales. El acueducto revela la escala urbana: Roma necesitaba agua de lugares cada vez más lejanos y dependía de una extensa red territorial.
 
-En el mapa, el trigo y los metales viajan de las provincias a la capital. Nuestro equipo lo llama el “pulpo imperial”: el centro concentra recursos que obtiene a distancia.
+En el mapa, el trigo y los metales viajan de las provincias a la capital. Nuestro equipo lo llama el “pulpo imperial”: un centro que concentra recursos obtenidos a distancia.
 
-Timgad nos devuelve a las provincias. Ángel Maya relaciona concentración de la propiedad, extracción y agotamiento del suelo con una economía sostenida por la esclavitud. El texto señala que, en tiempos de Nerón, seis ciudadanos poseían la mitad de la provincia de África. No explica la caída de Roma por una sola causa, sino dentro de una crisis ambiental, social y política. ¿Cuánto puede sostenerse un centro si deteriora las bases que lo abastecen?
+Timgad nos devuelve a las provincias. Ángel Maya relaciona la concentración de la propiedad y el agotamiento del suelo con una economía sostenida por la esclavitud. Según el texto, seis ciudadanos poseían la mitad de la provincia de África. El deterioro ambiental forma parte de una crisis social y política más amplia. ¿Cuánto puede sostenerse un centro si debilita las bases que lo abastecen?
 
 ### Momento 4 · Medioevo: contracción, adaptación y nueva presión
-**Expositor: Juan Felipe Vidal Galvis · 1:10**
+**Expositor: Juan Felipe Vidal Galvis · 1:20**
 
-**Juan Felipe:** La ciudad junto a la aldea representa la contracción: tras la desintegración imperial disminuyeron la vida urbana y el comercio. Para Ángel Maya, esa reorganización redujo temporalmente la presión.
+**Juan Felipe:** La primera imagen muestra el bosque común y los cerdos que se alimentaban de sus encinas. Representa formas locales de aprovechar el territorio y creencias que podían limitar la tala.
 
-El bosque común y los campos alternados muestran formas locales de aprovechar el territorio; no idealicemos el periodo, pues fue un descanso relativo. El molino, el arnés y la herradura representan cambios tecnológicos, pero la expansión agrícola volvió a abrir tierras en el bosque.
+La segunda imagen nos sitúa en un asentamiento medieval. Tras la desintegración imperial disminuyeron la vida urbana y el comercio, y ganaron importancia las comunidades rurales. La imagen ambienta el periodo; el descanso fue relativo, no una ausencia total de impactos.
 
-El capítulo también invita a considerar que algunos movimientos de población estuvieron ligados a la presión sobre la tierra y a condiciones ambientales adversas.
+En la tercera aparecen el molino, el caballo con arnés y los cultivos que avanzan sobre el bosque. La tecnología cambió el trabajo y facilitó producir más; las roturaciones volvieron a transformar el paisaje. Maya también relaciona algunas migraciones con la presión sobre la tierra y condiciones ambientales adversas.
 
-La última imagen compara ecosistemas templados y tropicales. La ubicación de los nutrientes influye en cómo responde cada uno a la tala. Esta diferencia importa al hablar de Colombia, aunque no debamos equiparar directamente ambos contextos históricos.
+La última imagen compara nutrientes del suelo templado con los de la vegetación tropical. Su distribución influye en cómo responde cada ecosistema a la tala. Esta diferencia importa al hablar de Colombia, aunque ambos contextos históricos no sean equivalentes.
 
 ### Momento 5 · Volver al presente: ¿quién paga el costo?
-**Expositores: Jhon, Kevin y Juan Felipe · 0:45**
+**Expositores: Jhon, Kevin y Juan Felipe · 0:50**
 
-**Jhon:** Grecia nos muestra cómo el uso intensivo desgasta el suelo.
+**Jhon:** Grecia muestra cómo el uso intensivo puede desgastar el suelo.
 
-**Kevin:** Roma, un centro que concentra beneficios a costa de sus provincias.
+**Kevin:** Roma, un centro que concentra beneficios y recursos de sus provincias.
 
-**Juan Felipe:** En el Medioevo la presión disminuyó y luego volvió a cambiar el paisaje. No es la misma historia que la actual, pero nos deja preguntas: ¿qué regiones abastecen nuestras ciudades y quién asume el impacto? En Colombia, nuestra síntesis llama la atención sobre el extractivismo y los monocultivos en regiones periféricas.
+**Juan Felipe:** En el Medioevo la presión disminuyó por un tiempo, pero los cultivos volvieron a transformar el paisaje. No es la misma historia que la actual, aunque nos deja preguntas: ¿de qué regiones vienen los recursos que sostienen nuestras ciudades y quién enfrenta los cambios en su territorio? En Colombia, nuestra síntesis invita a mirar la extracción de recursos naturales y los monocultivos en regiones periféricas, y la distancia entre quienes producen y quienes consumen.
 
 ### Reflexión y cierre
-**Guía: Juan Felipe Vidal Galvis · 0:25**
+**Guía: Juan Felipe Vidal Galvis · 1:00**
 
-**Juan Felipe:** Terminamos donde empezamos: una sociedad depende del territorio que la sostiene. La lección no es que toda expansión lleve inevitablemente al colapso, sino que no podemos ignorar los límites de los ecosistemas. Si el costo ambiental de nuestro consumo ocurre lejos, ¿cómo hacemos para verlo y asumirlo? Gracias por recorrer el museo.
+**Juan Felipe:** Terminamos con una idea: toda sociedad depende del territorio que la sostiene. Grecia nos muestra la pérdida de suelo; Roma, ciudades abastecidas por provincias; y el Medioevo, una presión que baja y luego vuelve con la expansión agrícola. No son historias idénticas a la nuestra ni prueban que todo crecimiento lleve al colapso. Sí nos recuerdan que cada decisión económica y política tiene consecuencias distintas según el lugar y el ecosistema.
+
+Al consumir, rara vez vemos de dónde vienen los recursos ni qué transformaciones viven las comunidades de esos territorios. ¿Cómo hacemos visibles esos vínculos y evitamos que los beneficios y los costos ambientales recaigan en lugares distintos? Esta pregunta nos invita a pensar nuestras decisiones colectivas. Gracias por recorrer el museo.
 
 ## Recursos para la presentación
 
